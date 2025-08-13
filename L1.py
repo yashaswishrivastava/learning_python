@@ -79,8 +79,11 @@ average = (f1+f2)/2
 print("the average of two numbers: ",average)
 
 #wap to input 2 int num, a and b. print True if a is greater or equal to b. if not print False.
+#wap to input 2 int num, a and b. print True if a is greater or equal to b. if not print False.
+#wap to input 2 int num, a and b. print True if a is greater or equal to b. if not print False.
 
 a = int(input("enter the number: "))
 b = int(input("enter the number: "))
 print(a>=b)
 print(not (a>=b))
+
